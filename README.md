@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="thumbnailmedicine.png" alt="Floating Point ALU Project Thumbnail" width="800">
+  <img src="thumbnailmedicine.jpg" alt="Floating Point ALU Project Thumbnail" width="800">
 </p>
 
 💊 Smart Medicine Dispenser System
@@ -56,5 +56,6 @@ The app syncs data with the cloud server.
 The ESP32 retrieves schedule data and activates the dispenser mechanism at the right time.
 
 A buzzer and LED alert the patient locally.
+
 
 Notifications are sent to caregivers or family members via the cloud.
