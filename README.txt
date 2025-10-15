@@ -1,5 +1,9 @@
 💊 Smart Medicine Dispenser System
 
+<p align="center">
+  <img src="thumbnail.jpg" alt="Floating Point ALU Project Thumbnail" width="800">
+</p>
+
 A Smart Medicine Alarm & Dispenser System designed to help patients take medicines on time through automation, IoT, and cloud connectivity. The system combines hardware control and a mobile app interface to ensure accurate and timely medicine dispensing.
 
 🚀 Overview
@@ -52,5 +56,6 @@ The app syncs data with the cloud server.
 The ESP32 retrieves schedule data and activates the dispenser mechanism at the right time.
 
 A buzzer and LED alert the patient locally.
+
 
 Notifications are sent to caregivers or family members via the cloud.
